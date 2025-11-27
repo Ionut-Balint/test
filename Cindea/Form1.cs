@@ -21,6 +21,10 @@ namespace Cindea
         {
             int k = 69;
             int h = 23,j,i;
+            int jji = 1;
+            int asx = 220;
+            int yyy = 102;
+            int hghf = 239;
         }
     }
 }

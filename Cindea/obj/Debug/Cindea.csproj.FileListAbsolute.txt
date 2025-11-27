@@ -1,0 +1,10 @@
+C:\lucru\test\Cindea\bin\Debug\Cindea.exe.config
+C:\lucru\test\Cindea\bin\Debug\Cindea.exe
+C:\lucru\test\Cindea\bin\Debug\Cindea.pdb
+C:\lucru\test\Cindea\obj\Debug\Cindea.csproj.AssemblyReference.cache
+C:\lucru\test\Cindea\obj\Debug\Cindea.Form1.resources
+C:\lucru\test\Cindea\obj\Debug\Cindea.Properties.Resources.resources
+C:\lucru\test\Cindea\obj\Debug\Cindea.csproj.GenerateResource.cache
+C:\lucru\test\Cindea\obj\Debug\Cindea.csproj.CoreCompileInputs.cache
+C:\lucru\test\Cindea\obj\Debug\Cindea.exe
+C:\lucru\test\Cindea\obj\Debug\Cindea.pdb
